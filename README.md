@@ -38,7 +38,7 @@ In the project, we used MVVM design pattern with Google Android Architecture Com
 The following diagram shows the flow how it works in the project:
 
 <p float="left">
-  <img src="https://github.com/sunnytse0326/SociNet/blob/master/screenshot/structure.png">
+  <img src="https://github.com/sunnytse0326/SociNet/blob/master/screenshot/structure.png" width="350" height="550">
 </p>
 
 
@@ -46,20 +46,20 @@ The following diagram shows the flow how it works in the project:
 # Implementation
 We will have a user list page which displays name, email and phone information:
 <p float="left">
-  <img src="https://github.com/sunnytse0326/SociNet/blob/master/screenshot/user_list.png">
+  <img src="https://github.com/sunnytse0326/SociNet/blob/master/screenshot/user_list.png" width="250" height="400">
 </p>
 
 It provides to view user detail information or main content of this application:
 <p float="left">
-  <img src="https://github.com/sunnytse0326/SociNet/blob/master/screenshot/user_detail.png">
-  <img src="https://github.com/sunnytse0326/SociNet/blob/master/screenshot/album_list.png">
+  <img src="https://github.com/sunnytse0326/SociNet/blob/master/screenshot/user_detail.png" width="250" height="400">
+  <img src="https://github.com/sunnytse0326/SociNet/blob/master/screenshot/album_list.png" width="250" height="400">
 </p>
 
 For the main content, user could be able to view album photos, post and todo lists:
 <p float="left">
-  <img src="https://github.com/sunnytse0326/SociNet/blob/master/screenshot/album_list.png">
-  <img src="https://github.com/sunnytse0326/SociNet/blob/master/screenshot/post_list.png">
-  <img src="https://github.com/sunnytse0326/SociNet/blob/master/screenshot/todo_list.png">
+  <img src="https://github.com/sunnytse0326/SociNet/blob/master/screenshot/album_list.png" width="250" height="400">
+  <img src="https://github.com/sunnytse0326/SociNet/blob/master/screenshot/post_list.png" width="250" height="400">
+  <img src="https://github.com/sunnytse0326/SociNet/blob/master/screenshot/todo_list.png" width="250" height="400">
 </p>
 
 
