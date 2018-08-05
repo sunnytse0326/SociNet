@@ -3,9 +3,7 @@ package com.socinet.viewmodel
 import android.arch.lifecycle.*
 import com.github.kittinunf.fuel.core.FuelError
 import com.socinet.model.Post
-import com.socinet.model.User
 import com.socinet.repository.PostRepository
-import com.socinet.repository.UserRepository
 
 class PostViewModel(val lifecycle: Lifecycle, private val lifecycleOwner: LifecycleOwner): ViewModel() {
     val postList: MutableLiveData<MutableList<Post>> = MutableLiveData()

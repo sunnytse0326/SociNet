@@ -1,16 +1,10 @@
 package com.socinet.uicomponent
 
-import android.graphics.Typeface
-import android.support.v7.widget.CardView
 import android.view.Gravity
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
-import android.widget.LinearLayout
-import android.widget.TextView
-import com.socinet.R
 import org.jetbrains.anko.*
-import org.jetbrains.anko.cardview.v7.cardView
 
 class PhotoRecyclerViewUI : AnkoComponent<ViewGroup> {
     lateinit var photo: ImageView

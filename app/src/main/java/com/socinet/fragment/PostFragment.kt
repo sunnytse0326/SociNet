@@ -5,17 +5,14 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.socinet.uicomponent.UserFragmentUI
 import org.jetbrains.anko.AnkoContext
 import org.jetbrains.anko.support.v4.ctx
 import android.arch.lifecycle.Lifecycle
-import android.support.v7.widget.GridLayoutManager
 import android.support.v7.widget.LinearLayoutManager
 import android.support.v7.widget.RecyclerView
 import android.widget.AbsListView
 import android.widget.Toast
 import com.socinet.adapter.PostRecyclerViewAdapter
-import com.socinet.adapter.UserRecyclerViewAdapter
 import com.socinet.uicomponent.PostFragmentUI
 import com.socinet.viewmodel.PostViewModel
 

@@ -1,10 +1,7 @@
 package com.socinet.fragment
 
 import android.arch.lifecycle.*
-import android.content.Context
 import android.os.Bundle
-import android.support.v4.app.Fragment
-import android.support.v4.app.FragmentActivity
 import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
@@ -13,7 +10,6 @@ import com.socinet.uicomponent.UserFragmentUI
 import com.socinet.viewmodel.UserViewModel
 import org.jetbrains.anko.AnkoContext
 import org.jetbrains.anko.support.v4.ctx
-import android.arch.lifecycle.Lifecycle
 import android.content.Intent
 import android.support.v7.widget.LinearLayoutManager
 import android.widget.Toast

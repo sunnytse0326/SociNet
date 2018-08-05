@@ -1,12 +1,8 @@
 package com.socinet.uicomponent
 
-import android.app.ProgressDialog
 import android.support.design.widget.TabLayout
 import android.support.v4.view.ViewPager
-import android.view.Gravity
 import android.view.View
-import android.widget.Button
-import android.widget.EditText
 import com.socinet.activity.HomeActivity
 import com.socinet.R
 import org.jetbrains.anko.*

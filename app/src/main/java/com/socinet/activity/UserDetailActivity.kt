@@ -2,9 +2,7 @@ package com.socinet.activity
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import com.socinet.adapter.HomeAdapter
 import com.socinet.model.User
-import com.socinet.uicomponent.HomeUI
 import com.socinet.uicomponent.UserUI
 import org.jetbrains.anko.setContentView
 

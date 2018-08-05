@@ -1,14 +1,10 @@
 package com.socinet.adapter
 
 import android.support.v7.widget.RecyclerView
-import android.util.Log
 import android.view.View
 import android.view.ViewGroup
-import com.socinet.model.Photo
 import com.socinet.model.Post
-import com.socinet.model.User
 import com.socinet.uicomponent.*
-import com.squareup.picasso.Picasso
 import org.jetbrains.anko.AnkoContext
 
 class PostRecyclerViewAdapter constructor(mListener: OnClickListener, mPosts: MutableList<Post>) : RecyclerView.Adapter<RecyclerView.ViewHolder>() {

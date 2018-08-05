@@ -1,12 +1,9 @@
 package com.socinet.viewmodel
 
 import android.arch.lifecycle.*
-import android.util.Log
 import com.github.kittinunf.fuel.core.FuelError
 import com.socinet.model.Photo
-import com.socinet.model.User
 import com.socinet.repository.PhotoRepository
-import com.socinet.repository.UserRepository
 
 class PhotoViewModel(val lifecycle: Lifecycle, private val lifecycleOwner: LifecycleOwner): ViewModel() {
     val photoList: MutableLiveData<MutableList<Photo>> = MutableLiveData()
