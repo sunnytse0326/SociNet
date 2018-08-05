@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SociNet</string>
+
+    <string name="users">Users</string>
+    <string name="albums">Albums</string>
+    <string name="photos">Photos</string>
+    <string name="todo">Todo\'s</string>
+    <string name="posts">Posts</string>
+    <string name="user_info">User Information</string>
+    <string name="content">Content</string>
+    <string name="address">Address</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+</resources>
