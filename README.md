@@ -1,4 +1,4 @@
-# Android Socail Network Application
+# Android Social Network Application - SociNet
 
 SociNet is a social netwrok demonstration project with MVVM Design Structure by using RXJava2 with LiveData and Repository Patterns. It contains a user list page and detail page which shows the information fetched from network.
 
